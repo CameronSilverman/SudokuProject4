@@ -1,0 +1,19 @@
+WIDTH = 740
+HEIGHT = 860
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREY = (128,128,128)
+BG_COLOR = (255, 255, 255)
+
+button_width = 220
+button_height = 60
+re_box_x1 = 20
+re_box_x2 = re_box_x1 + button_width
+rst_box_x1 = 260
+rst_box_x2 = rst_box_x1 + button_width
+ext_box_x1 = 500
+ext_box_x2 = ext_box_x1 + button_width
+menu_button_box_y1 = 775
+game_button_box_y1 = 500
+menu_button_box_y2 = menu_button_box_y1 + button_height
+game_button_box_y2 = game_button_box_y1 + button_height
